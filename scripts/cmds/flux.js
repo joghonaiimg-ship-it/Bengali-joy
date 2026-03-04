@@ -32,13 +32,13 @@ module.exports = {
                         noPrompt: "× বেবি, ছবি তৈরি করার জন্য কিছু তো লেখো! 🎨",
                         wait: "✅ ছবি তৈরি হচ্ছে, একটু অপেক্ষা করো বেবি...!! <😘",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐟𝐥𝐮𝐱 𝐢𝐦𝐚𝐠𝐞 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
+                        error: "× সমস্যা হয়েছে: %1। "
                 },
                 en: {
                         noPrompt: "× Baby, please provide a prompt to generate image! 🎨",
                         wait: "✅ Image Generating, please wait...!! <😘",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐟𝐥𝐮𝐱 𝐢𝐦𝐚𝐠𝐞 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× API error: %1. Contact It'z Sammyo for help."
+                        error: "× API error: %1. "
                 },
                 vi: {
                         noPrompt: "× Cưng ơi, vui lòng nhập mô tả để tạo ảnh! 🎨",
