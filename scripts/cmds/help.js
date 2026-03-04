@@ -63,7 +63,7 @@ module.exports = {
                                        `Type ${prefix}help <cmd> to see details.`;
 
                         msg += `\n\n⭔ Total Commands: ${totalCommands}\n⭔ ${helpHint}\n`;
-                        msg += `\n╭─✦ ADMIN: It'z Sammyo彡\n├‣ Facebook\n╰‣ https://www.facebook.com/itzXsammyo`;
+                        msg += `\n╭─✦ ADMIN: 𝐒𝐚𝐦𝐢𝐮𝐥 𝐇𝐚𝐬𝐚𝐧 𝐑𝐢𝐟𝐚𝐭 । 𝐌𝐚𝐝𝐞 𝐛𝐲 𝐇𝐢𝐬 𝐛𝐫𝐨𝐭𝐡𝐞𝐫 𝐘. 𝐇𝐚𝐬𝐚𝐧 𝐑𝐢𝐝𝐚𝐧\n├‣এখনো সময় আছে, সব বাইনসুদরা ভালো হয়ে যা! ⏳⚠️🙌🏾`;
 
                         try {
                                 const hh = await message.reply({ body: msg });
@@ -77,7 +77,7 @@ module.exports = {
                         const command = commands.get(commandName) || commands.get(aliases.get(commandName));
 
                         if (!command) {
-                                const notFound = langCode === "bn" ? `❌ | বেবি, "${commandName}" নামে কোনো কমান্ড নেই!` : 
+                                const notFound = langCode === "bn" ? `❌ | এই চোদনা, "${commandName}"এই নামে কোনো কমান্ড নেই কিন্তু তুই এই কমান্ড দেওয়া চুদাইতাসিস!` : 
                                                  langCode === "vi" ? `❌ | Không tìm thấy lệnh "${commandName}".` : 
                                                  `❌ | Command "${commandName}" not found.`;
                                 return message.reply(notFound);
