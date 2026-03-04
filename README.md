@@ -1,6 +1,5 @@
-Fork By It'z Sammyo 
-Facebook:https://www.facebook.com/itzXsammyo
+Fork By samiul Hasan Shr
 
 🐸
-Coded By Sammyo 🌚 
+Coded By Samiul 🌚 
 Fucking Hard 
