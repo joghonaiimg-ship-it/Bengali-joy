@@ -1,2 +1,2 @@
-It'z Sammyo 
-Fb:https://www.facebook.com/itzXsammyo
+Samiul Hasan Rifat 
+coded by his brother
