@@ -15,14 +15,12 @@ module.exports = {
                 role: 0,
                 description: {
                         bn: "AI এর মাধ্যমে ছবির কোয়ালিটি 4K বা HD করুন",
-                        en: "Enhance or restore image quality to 4K using AI",
-                        vi: "Nâng cao chất lượng hình ảnh lên 4K bằng AI"
+                        en: "Enhance or restore image quality to 4K using AI"
                 },
                 category: "tools",
                 guide: {
                         bn: '   {pn} [url]: ছবির লিংকের মাধ্যমে HD করুন\n   অথবা ছবির রিপ্লাইয়ে {pn} লিখুন',
                         en: '   {pn} [url]: Upscale image via URL\n   Or reply to an image with {pn}',
-                        vi: '   {pn} [url]: Nâng cấp ảnh qua URL\n   Hoặc phản hồi ảnh bằng {pn}'
                 }
         },
 
@@ -31,13 +29,13 @@ module.exports = {
                         noImage: "• বেবি, একটি ছবিতে রিপ্লাই দাও অথবা ছবির লিংক দাও! 😘",
                         wait: "𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝟒𝐤 𝐢𝐦𝐚𝐠𝐞...𝐰𝐚𝐢𝐭 𝐛𝐚𝐛𝐲 😘",
                         success: "✅ | 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝟒𝐤 𝐢𝐦𝐚𝐠𝐞 𝐛𝐚𝐛𝐲",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact Master samiul hasasn rifat"
                 },
                 en: {
                         noImage: "• Baby, please reply to an image or provide a link! 😘",
                         wait: "𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝟒𝐤 𝐢𝐦𝐚𝐠𝐞...𝐰𝐚𝐢𝐭 𝐛𝐚𝐛𝐲 😘",
                         success: "✅ | 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝟒𝐤 𝐢𝐦𝐚𝐠𝐞 𝐛𝐚𝐛𝐲",
-                        error: "× API error: %1. Contact it'z Sammyo for help."
+                        error: "× API error: %1. Contact Master Samiul Hasan Rofat for help."
                 },
                 vi: {
                         noImage: "• Cưng ơi, hãy phản hồi một bức ảnh hoặc gửi link! 😘",
